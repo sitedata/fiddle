@@ -47,7 +47,7 @@
     "electron-devtools-installer": "^2.2.4",
     "electron-squirrel-startup": "^1.0.0",
     "extract-zip": "^1.6.7",
-    "fix-path": "^3.0.0",
+    "fix-path": "^4.0.0",
     "fs-extra": "^8.1.0",
     "mobx": "^5.15.4",
     "mobx-react": "^6.1.8",
